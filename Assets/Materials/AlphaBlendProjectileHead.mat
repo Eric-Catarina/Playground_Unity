@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: AdditiveGroundProjectile
-  m_Shader: {fileID: -6465566751694194690, guid: 27cfdacd7d38bb88ca37dcdaec7ec997, type: 3}
+  m_Name: AlphaBlendProjectileHead
+  m_Shader: {fileID: -6465566751694194690, guid: 7d52b1998adfa6cf18f0cb397acb0200, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
